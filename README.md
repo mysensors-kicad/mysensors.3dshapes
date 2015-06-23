@@ -10,4 +10,4 @@ follows
 <kicad base dir>/modules/packages3d/mysensors.3dshapes
 
 (on arch linux this is placed in /usr/share/kicad/modules/packages3d)
-
+(on Windows this is placed by default in C:\Program Files\KiCad\share\kicad\modules\packages3d)
