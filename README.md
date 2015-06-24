@@ -12,3 +12,8 @@ follows
 (on arch linux this is placed in /usr/share/kicad/modules/packages3d)
 (on Windows this is placed by default in C:\Program Files\KiCad\share\kicad\modules\packages3d)
 (on Mac OS X this is placed by default in /Library/Application Support/kicad/packages3d)
+
+Note that some parts availabe here were developed by Walter Lain - kcswalter@member.fsf.org
+and are available under Walter Lain's original KiCad Library licensing terms stated on his site 
+http://smisioto.no-ip.org/elettronica/kicad/kicad-en.htm and in the original associated
+license.txt files contained herein under the associated directory that hosts his parts.
