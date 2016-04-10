@@ -13,7 +13,7 @@ Examples for various architectures:
 
 Linux: /home/user/mysensors-kicad/mysensors.3dshapes (MYSLOCAL set to /home/user/mysensors-kicad)
 
-Windows: C:\GitHub\mysensors-kicad\mysensors.3dshapes (MYSLOCAL set to C:\GitHub\mysensors-kicad)
+Windows: C:\GitHub\mysensors-kicad\mysensors.3dshapes (MYSLOCAL set to C:\GitHub\mysensors-kicad, remember to also define MYSLOCAL as a Windows environment variable)
 
 Note that some parts availabe here were developed by Walter Lain - kcswalter@member.fsf.org
 and are available under Walter Lain's original KiCad Library licensing terms stated on his site 
